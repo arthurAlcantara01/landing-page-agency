@@ -38,6 +38,9 @@ header section.menu ul{
     gap: 30px;
     align-items: center;
 }
+.navItem{
+    color: black;
+}
 
 header section.menu button{
     background-color: #02073E;
@@ -46,6 +49,7 @@ header section.menu button{
     font-size: 16px;
     border-radius: 5px;
     height: 35px;
+    cursor: pointer;
 }
 header div.layer{
     width: 100px;
